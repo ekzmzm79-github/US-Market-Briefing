@@ -1,0 +1,2378 @@
+[
+ {
+  "date": "1990-01-15",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 337.0,
+  "dd_cycle": -6.34,
+  "dd_ath": -6.34
+ },
+ {
+  "date": "1990-01-18",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 338.19,
+  "dd_cycle": -6.01,
+  "dd_ath": -6.01
+ },
+ {
+  "date": "1990-01-22",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 330.38,
+  "dd_cycle": -8.18,
+  "dd_ath": -8.18
+ },
+ {
+  "date": "1990-01-30",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 322.98,
+  "dd_cycle": -10.23,
+  "dd_ath": -10.23
+ },
+ {
+  "date": "1990-02-05",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 331.85,
+  "dd_cycle": -7.77,
+  "dd_ath": -7.77
+ },
+ {
+  "date": "1990-05-30",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 360.86,
+  "dd_cycle": 0.0,
+  "dd_ath": 0.0
+ },
+ {
+  "date": "1990-08-03",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 344.86,
+  "dd_cycle": -6.53,
+  "dd_ath": -6.53
+ },
+ {
+  "date": "1990-08-17",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 327.83,
+  "dd_cycle": -11.15,
+  "dd_ath": -11.15
+ },
+ {
+  "date": "1991-01-30",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 340.91,
+  "dd_cycle": -7.6,
+  "dd_ath": -7.6
+ },
+ {
+  "date": "1991-02-20",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 365.14,
+  "dd_cycle": -1.15,
+  "dd_ath": -1.15
+ },
+ {
+  "date": "1991-11-21",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 380.06,
+  "dd_cycle": -4.37,
+  "dd_ath": -4.37
+ },
+ {
+  "date": "1991-12-17",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 382.74,
+  "dd_cycle": -3.69,
+  "dd_ath": -3.69
+ },
+ {
+  "date": "1992-10-06",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 407.18,
+  "dd_cycle": -4.25,
+  "dd_ath": -4.25
+ },
+ {
+  "date": "1992-10-21",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 415.67,
+  "dd_cycle": -2.26,
+  "dd_ath": -2.26
+ },
+ {
+  "date": "1994-03-29",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 452.48,
+  "dd_cycle": -6.12,
+  "dd_ath": -6.12
+ },
+ {
+  "date": "1994-09-19",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 470.85,
+  "dd_cycle": -2.31,
+  "dd_ath": -2.31
+ },
+ {
+  "date": "1994-10-06",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 452.36,
+  "dd_cycle": -6.15,
+  "dd_ath": -6.15
+ },
+ {
+  "date": "1994-10-13",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 467.79,
+  "dd_cycle": -2.95,
+  "dd_ath": -2.95
+ },
+ {
+  "date": "1994-11-23",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 449.93,
+  "dd_cycle": -6.65,
+  "dd_ath": -6.65
+ },
+ {
+  "date": "1994-12-20",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 457.1,
+  "dd_cycle": -5.17,
+  "dd_ath": -5.17
+ },
+ {
+  "date": "1996-07-25",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 631.17,
+  "dd_cycle": -6.98,
+  "dd_ath": -6.98
+ },
+ {
+  "date": "1996-07-30",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 635.26,
+  "dd_cycle": -6.37,
+  "dd_ath": -6.37
+ },
+ {
+  "date": "1997-09-04",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 930.87,
+  "dd_cycle": -3.07,
+  "dd_ath": -3.07
+ },
+ {
+  "date": "1997-09-09",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 933.62,
+  "dd_cycle": -2.78,
+  "dd_ath": -2.78
+ },
+ {
+  "date": "1997-09-11",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 912.59,
+  "dd_cycle": -4.97,
+  "dd_ath": -4.97
+ },
+ {
+  "date": "1997-09-18",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 947.29,
+  "dd_cycle": -1.36,
+  "dd_ath": -1.36
+ },
+ {
+  "date": "1997-10-27",
+  "from": "정상",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 876.99,
+  "dd_cycle": -10.8,
+  "dd_ath": -10.8
+ },
+ {
+  "date": "1997-10-28",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 921.85,
+  "dd_cycle": -6.23,
+  "dd_ath": -6.23
+ },
+ {
+  "date": "1997-12-05",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 983.79,
+  "dd_cycle": 0.0,
+  "dd_ath": 0.0
+ },
+ {
+  "date": "1997-12-11",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 954.94,
+  "dd_cycle": -2.93,
+  "dd_ath": -2.93
+ },
+ {
+  "date": "1998-01-02",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 975.04,
+  "dd_cycle": -0.89,
+  "dd_ath": -0.89
+ },
+ {
+  "date": "1998-01-06",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 966.58,
+  "dd_cycle": -1.75,
+  "dd_ath": -1.75
+ },
+ {
+  "date": "1998-01-16",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 961.51,
+  "dd_cycle": -2.26,
+  "dd_ath": -2.26
+ },
+ {
+  "date": "1998-04-27",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1086.54,
+  "dd_cycle": -3.89,
+  "dd_ath": -3.89
+ },
+ {
+  "date": "1998-04-30",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1111.75,
+  "dd_cycle": -1.66,
+  "dd_ath": -1.66
+ },
+ {
+  "date": "1998-06-15",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1077.01,
+  "dd_cycle": -4.73,
+  "dd_ath": -4.73
+ },
+ {
+  "date": "1998-06-18",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1106.37,
+  "dd_cycle": -2.14,
+  "dd_ath": -2.14
+ },
+ {
+  "date": "1998-07-28",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1130.24,
+  "dd_cycle": -4.76,
+  "dd_ath": -4.76
+ },
+ {
+  "date": "1998-07-31",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1120.67,
+  "dd_cycle": -5.57,
+  "dd_ath": -5.57
+ },
+ {
+  "date": "1998-08-03",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1112.44,
+  "dd_cycle": -6.26,
+  "dd_ath": -6.26
+ },
+ {
+  "date": "1998-08-14",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1062.75,
+  "dd_cycle": -10.45,
+  "dd_ath": -10.45
+ },
+ {
+  "date": "1998-08-18",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1101.2,
+  "dd_cycle": -7.21,
+  "dd_ath": -7.21
+ },
+ {
+  "date": "1998-08-27",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1042.59,
+  "dd_cycle": -12.15,
+  "dd_ath": -12.15
+ },
+ {
+  "date": "1998-10-30",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1098.67,
+  "dd_cycle": -7.42,
+  "dd_ath": -7.42
+ },
+ {
+  "date": "1998-12-23",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1228.54,
+  "dd_cycle": 0.0,
+  "dd_ath": 0.0
+ },
+ {
+  "date": "1999-01-04",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1228.1,
+  "dd_cycle": -1.1,
+  "dd_ath": -1.1
+ },
+ {
+  "date": "1999-01-07",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1269.73,
+  "dd_cycle": -0.21,
+  "dd_ath": -0.21
+ },
+ {
+  "date": "1999-01-11",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1263.88,
+  "dd_cycle": -0.88,
+  "dd_ath": -0.88
+ },
+ {
+  "date": "1999-03-12",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1294.59,
+  "dd_cycle": -0.24,
+  "dd_ath": -0.24
+ },
+ {
+  "date": "1999-03-15",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1307.26,
+  "dd_cycle": 0.0,
+  "dd_ath": 0.0
+ },
+ {
+  "date": "1999-03-29",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1310.17,
+  "dd_cycle": -0.48,
+  "dd_ath": -0.48
+ },
+ {
+  "date": "1999-04-19",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1289.48,
+  "dd_cycle": -5.09,
+  "dd_ath": -5.09
+ },
+ {
+  "date": "1999-04-23",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1356.85,
+  "dd_cycle": -0.14,
+  "dd_ath": -0.14
+ },
+ {
+  "date": "1999-04-29",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1342.83,
+  "dd_cycle": -1.47,
+  "dd_ath": -1.47
+ },
+ {
+  "date": "1999-06-08",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1317.33,
+  "dd_cycle": -3.67,
+  "dd_ath": -3.67
+ },
+ {
+  "date": "1999-06-10",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1302.82,
+  "dd_cycle": -4.73,
+  "dd_ath": -4.73
+ },
+ {
+  "date": "1999-06-18",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1342.84,
+  "dd_cycle": -1.81,
+  "dd_ath": -1.81
+ },
+ {
+  "date": "1999-08-02",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1328.05,
+  "dd_cycle": -6.39,
+  "dd_ath": -6.39
+ },
+ {
+  "date": "1999-08-17",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1344.16,
+  "dd_cycle": -5.26,
+  "dd_ath": -5.26
+ },
+ {
+  "date": "1999-09-16",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1318.48,
+  "dd_cycle": -7.07,
+  "dd_ath": -7.07
+ },
+ {
+  "date": "1999-09-29",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1268.37,
+  "dd_cycle": -10.6,
+  "dd_ath": -10.6
+ },
+ {
+  "date": "1999-10-06",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1325.4,
+  "dd_cycle": -6.58,
+  "dd_ath": -6.58
+ },
+ {
+  "date": "1999-10-08",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1336.02,
+  "dd_cycle": -5.83,
+  "dd_ath": -5.83
+ },
+ {
+  "date": "1999-10-13",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1285.55,
+  "dd_cycle": -9.39,
+  "dd_ath": -9.39
+ },
+ {
+  "date": "1999-10-15",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1247.41,
+  "dd_cycle": -12.08,
+  "dd_ath": -12.08
+ },
+ {
+  "date": "1999-10-28",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1342.44,
+  "dd_cycle": -5.38,
+  "dd_ath": -5.38
+ },
+ {
+  "date": "1999-11-01",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1354.12,
+  "dd_cycle": -4.56,
+  "dd_ath": -4.56
+ },
+ {
+  "date": "1999-11-04",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1362.64,
+  "dd_cycle": -3.96,
+  "dd_ath": -3.96
+ },
+ {
+  "date": "1999-11-15",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1394.39,
+  "dd_cycle": -1.72,
+  "dd_ath": -1.72
+ },
+ {
+  "date": "2000-01-04",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1399.42,
+  "dd_cycle": -4.75,
+  "dd_ath": -4.75
+ },
+ {
+  "date": "2000-01-11",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1438.56,
+  "dd_cycle": -2.09,
+  "dd_ath": -2.09
+ },
+ {
+  "date": "2000-01-28",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1360.16,
+  "dd_cycle": -7.42,
+  "dd_ath": -7.42
+ },
+ {
+  "date": "2000-02-02",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1409.12,
+  "dd_cycle": -4.09,
+  "dd_ath": -4.09
+ },
+ {
+  "date": "2000-02-18",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1346.09,
+  "dd_cycle": -8.38,
+  "dd_ath": -8.38
+ },
+ {
+  "date": "2000-03-02",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1381.76,
+  "dd_cycle": -5.95,
+  "dd_ath": -5.95
+ },
+ {
+  "date": "2000-03-30",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1487.92,
+  "dd_cycle": -2.59,
+  "dd_ath": -2.59
+ },
+ {
+  "date": "2000-04-14",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1356.56,
+  "dd_cycle": -11.19,
+  "dd_ath": -11.19
+ },
+ {
+  "date": "2000-04-18",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1441.61,
+  "dd_cycle": -5.62,
+  "dd_ath": -5.62
+ },
+ {
+  "date": "2000-05-17",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1447.8,
+  "dd_cycle": -5.22,
+  "dd_ath": -5.22
+ },
+ {
+  "date": "2000-05-19",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1406.95,
+  "dd_cycle": -7.89,
+  "dd_ath": -7.89
+ },
+ {
+  "date": "2000-05-23",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1373.86,
+  "dd_cycle": -10.06,
+  "dd_ath": -10.06
+ },
+ {
+  "date": "2000-05-30",
+  "from": "조정장",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1422.45,
+  "dd_cycle": -6.87,
+  "dd_ath": -6.87
+ },
+ {
+  "date": "2000-09-27",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1426.57,
+  "dd_cycle": -6.61,
+  "dd_ath": -6.61
+ },
+ {
+  "date": "2000-10-02",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1436.23,
+  "dd_cycle": -5.97,
+  "dd_ath": -5.97
+ },
+ {
+  "date": "2000-10-03",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1426.46,
+  "dd_cycle": -6.61,
+  "dd_ath": -6.61
+ },
+ {
+  "date": "2000-10-11",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1364.59,
+  "dd_cycle": -10.66,
+  "dd_ath": -10.66
+ },
+ {
+  "date": "2000-10-31",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1429.4,
+  "dd_cycle": -6.42,
+  "dd_ath": -6.42
+ },
+ {
+  "date": "2000-11-10",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1365.98,
+  "dd_cycle": -10.57,
+  "dd_ath": -10.57
+ },
+ {
+  "date": "2001-03-12",
+  "from": "조정장",
+  "to": "약세장",
+  "direction": "악화",
+  "close": 1180.16,
+  "dd_cycle": -22.74,
+  "dd_ath": -22.74
+ },
+ {
+  "date": "2001-12-05",
+  "from": "약세장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1170.35,
+  "dd_cycle": 0.0,
+  "dd_ath": -23.38
+ },
+ {
+  "date": "2002-05-06",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1052.67,
+  "dd_cycle": -10.22,
+  "dd_ath": -31.08
+ },
+ {
+  "date": "2002-05-08",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1088.85,
+  "dd_cycle": -7.14,
+  "dd_ath": -28.71
+ },
+ {
+  "date": "2002-05-10",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1054.99,
+  "dd_cycle": -10.02,
+  "dd_ath": -30.93
+ },
+ {
+  "date": "2002-05-14",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1097.28,
+  "dd_cycle": -6.42,
+  "dd_ath": -28.16
+ },
+ {
+  "date": "2002-06-03",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1040.68,
+  "dd_cycle": -11.24,
+  "dd_ath": -31.87
+ },
+ {
+  "date": "2002-07-10",
+  "from": "조정장",
+  "to": "약세장",
+  "direction": "악화",
+  "close": 920.47,
+  "dd_cycle": -21.5,
+  "dd_ath": -39.74
+ },
+ {
+  "date": "2002-08-22",
+  "from": "약세장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 962.7,
+  "dd_cycle": 0.0,
+  "dd_ath": -36.97
+ },
+ {
+  "date": "2002-09-19",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 843.32,
+  "dd_cycle": -12.4,
+  "dd_ath": -44.79
+ },
+ {
+  "date": "2002-10-21",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 899.72,
+  "dd_cycle": -6.54,
+  "dd_ath": -41.1
+ },
+ {
+  "date": "2003-01-24",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 861.4,
+  "dd_cycle": -10.52,
+  "dd_ath": -43.61
+ },
+ {
+  "date": "2003-03-21",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 895.79,
+  "dd_cycle": -6.95,
+  "dd_ath": -41.35
+ },
+ {
+  "date": "2003-03-24",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 864.23,
+  "dd_cycle": -10.23,
+  "dd_ath": -43.42
+ },
+ {
+  "date": "2003-04-15",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 890.81,
+  "dd_cycle": -7.47,
+  "dd_ath": -41.68
+ },
+ {
+  "date": "2003-05-16",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 944.3,
+  "dd_cycle": -1.91,
+  "dd_ath": -38.18
+ },
+ {
+  "date": "2004-07-23",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1086.2,
+  "dd_cycle": -6.18,
+  "dd_ath": -28.89
+ },
+ {
+  "date": "2004-11-09",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1164.08,
+  "dd_cycle": -0.18,
+  "dd_ath": -23.79
+ },
+ {
+  "date": "2005-04-19",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1152.78,
+  "dd_cycle": -5.92,
+  "dd_ath": -24.53
+ },
+ {
+  "date": "2005-04-25",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1162.1,
+  "dd_cycle": -5.16,
+  "dd_ath": -23.92
+ },
+ {
+  "date": "2005-10-07",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1195.9,
+  "dd_cycle": -3.95,
+  "dd_ath": -21.71
+ },
+ {
+  "date": "2005-10-26",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1191.38,
+  "dd_cycle": -4.31,
+  "dd_ath": -22.0
+ },
+ {
+  "date": "2005-10-27",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1178.9,
+  "dd_cycle": -5.31,
+  "dd_ath": -22.82
+ },
+ {
+  "date": "2005-11-02",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1214.76,
+  "dd_cycle": -2.43,
+  "dd_ath": -20.47
+ },
+ {
+  "date": "2006-06-09",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1252.3,
+  "dd_cycle": -5.54,
+  "dd_ath": -18.01
+ },
+ {
+  "date": "2006-07-03",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1280.19,
+  "dd_cycle": -3.44,
+  "dd_ath": -16.19
+ },
+ {
+  "date": "2006-07-14",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1236.2,
+  "dd_cycle": -6.76,
+  "dd_ath": -19.07
+ },
+ {
+  "date": "2006-09-14",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1316.28,
+  "dd_cycle": -0.72,
+  "dd_ath": -13.83
+ },
+ {
+  "date": "2007-08-03",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1433.06,
+  "dd_cycle": -7.73,
+  "dd_ath": -7.73
+ },
+ {
+  "date": "2007-08-08",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1497.49,
+  "dd_cycle": -3.58,
+  "dd_ath": -3.58
+ },
+ {
+  "date": "2007-08-09",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1453.09,
+  "dd_cycle": -6.44,
+  "dd_ath": -6.44
+ },
+ {
+  "date": "2007-08-24",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1479.37,
+  "dd_cycle": -4.75,
+  "dd_ath": -4.75
+ },
+ {
+  "date": "2007-08-28",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1432.36,
+  "dd_cycle": -7.77,
+  "dd_ath": -7.77
+ },
+ {
+  "date": "2007-09-05",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1472.29,
+  "dd_cycle": -5.2,
+  "dd_ath": -5.2
+ },
+ {
+  "date": "2007-09-07",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1453.55,
+  "dd_cycle": -6.41,
+  "dd_ath": -6.41
+ },
+ {
+  "date": "2007-09-14",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1484.25,
+  "dd_cycle": -4.43,
+  "dd_ath": -4.43
+ },
+ {
+  "date": "2007-09-17",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1476.65,
+  "dd_cycle": -4.92,
+  "dd_ath": -4.92
+ },
+ {
+  "date": "2007-09-20",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1518.75,
+  "dd_cycle": -2.21,
+  "dd_ath": -2.21
+ },
+ {
+  "date": "2007-11-07",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1475.62,
+  "dd_cycle": -5.72,
+  "dd_ath": -5.72
+ },
+ {
+  "date": "2007-11-26",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1407.22,
+  "dd_cycle": -10.09,
+  "dd_ath": -10.09
+ },
+ {
+  "date": "2007-11-28",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1469.02,
+  "dd_cycle": -6.14,
+  "dd_ath": -6.14
+ },
+ {
+  "date": "2007-12-07",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1504.66,
+  "dd_cycle": -3.86,
+  "dd_ath": -3.86
+ },
+ {
+  "date": "2007-12-18",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1454.98,
+  "dd_cycle": -7.04,
+  "dd_ath": -7.04
+ },
+ {
+  "date": "2008-01-08",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1390.19,
+  "dd_cycle": -11.18,
+  "dd_ath": -11.18
+ },
+ {
+  "date": "2008-07-09",
+  "from": "조정장",
+  "to": "약세장",
+  "direction": "악화",
+  "close": 1244.69,
+  "dd_cycle": -20.47,
+  "dd_ath": -20.47
+ },
+ {
+  "date": "2008-12-08",
+  "from": "약세장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 909.7,
+  "dd_cycle": 0.0,
+  "dd_ath": -41.88
+ },
+ {
+  "date": "2009-01-20",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 805.22,
+  "dd_cycle": -13.85,
+  "dd_ath": -48.55
+ },
+ {
+  "date": "2009-01-28",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 874.09,
+  "dd_cycle": -6.48,
+  "dd_ath": -44.15
+ },
+ {
+  "date": "2009-01-30",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 825.88,
+  "dd_cycle": -11.64,
+  "dd_ath": -47.23
+ },
+ {
+  "date": "2009-02-06",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 868.6,
+  "dd_cycle": -7.07,
+  "dd_ath": -44.5
+ },
+ {
+  "date": "2009-02-10",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 827.16,
+  "dd_cycle": -11.51,
+  "dd_ath": -47.15
+ },
+ {
+  "date": "2009-02-23",
+  "from": "조정장",
+  "to": "약세장",
+  "direction": "악화",
+  "close": 743.33,
+  "dd_cycle": -20.47,
+  "dd_ath": -52.51
+ },
+ {
+  "date": "2009-03-23",
+  "from": "약세장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 822.92,
+  "dd_cycle": 0.0,
+  "dd_ath": -47.42
+ },
+ {
+  "date": "2009-07-21",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 954.58,
+  "dd_cycle": 0.0,
+  "dd_ath": -39.01
+ },
+ {
+  "date": "2009-07-28",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 979.62,
+  "dd_cycle": -0.26,
+  "dd_ath": -37.41
+ },
+ {
+  "date": "2009-08-27",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1030.98,
+  "dd_cycle": 0.0,
+  "dd_ath": -34.13
+ },
+ {
+  "date": "2009-08-31",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1020.62,
+  "dd_cycle": -1.0,
+  "dd_ath": -34.79
+ },
+ {
+  "date": "2009-09-11",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1042.73,
+  "dd_cycle": -0.14,
+  "dd_ath": -33.38
+ },
+ {
+  "date": "2009-09-25",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1044.38,
+  "dd_cycle": -2.55,
+  "dd_ath": -33.27
+ },
+ {
+  "date": "2009-10-09",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1071.49,
+  "dd_cycle": -0.02,
+  "dd_ath": -31.54
+ },
+ {
+  "date": "2009-10-28",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1042.63,
+  "dd_cycle": -5.04,
+  "dd_ath": -33.38
+ },
+ {
+  "date": "2009-11-10",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1093.01,
+  "dd_cycle": -0.45,
+  "dd_ath": -30.17
+ },
+ {
+  "date": "2010-01-22",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1091.76,
+  "dd_cycle": -5.08,
+  "dd_ath": -30.25
+ },
+ {
+  "date": "2010-01-28",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1084.53,
+  "dd_cycle": -5.71,
+  "dd_ath": -30.71
+ },
+ {
+  "date": "2010-02-04",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1063.11,
+  "dd_cycle": -7.57,
+  "dd_ath": -32.08
+ },
+ {
+  "date": "2010-02-16",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1094.87,
+  "dd_cycle": -4.81,
+  "dd_ath": -30.05
+ },
+ {
+  "date": "2010-05-06",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1128.15,
+  "dd_cycle": -7.32,
+  "dd_ath": -27.92
+ },
+ {
+  "date": "2010-05-20",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1071.59,
+  "dd_cycle": -11.97,
+  "dd_ath": -31.53
+ },
+ {
+  "date": "2010-08-02",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1125.86,
+  "dd_cycle": -7.51,
+  "dd_ath": -28.07
+ },
+ {
+  "date": "2010-08-11",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1089.47,
+  "dd_cycle": -10.5,
+  "dd_ath": -30.39
+ },
+ {
+  "date": "2010-09-13",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1121.9,
+  "dd_cycle": -7.84,
+  "dd_ath": -28.32
+ },
+ {
+  "date": "2010-10-26",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1185.64,
+  "dd_cycle": -2.6,
+  "dd_ath": -24.25
+ },
+ {
+  "date": "2011-03-16",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1256.88,
+  "dd_cycle": -6.41,
+  "dd_ath": -19.7
+ },
+ {
+  "date": "2011-03-22",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1293.77,
+  "dd_cycle": -3.67,
+  "dd_ath": -17.34
+ },
+ {
+  "date": "2011-07-29",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1292.28,
+  "dd_cycle": -5.23,
+  "dd_ath": -17.43
+ },
+ {
+  "date": "2011-08-03",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1260.34,
+  "dd_cycle": -7.57,
+  "dd_ath": -19.47
+ },
+ {
+  "date": "2011-08-04",
+  "from": "정상",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1200.07,
+  "dd_cycle": -11.99,
+  "dd_ath": -23.33
+ },
+ {
+  "date": "2011-10-27",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1284.59,
+  "dd_cycle": -5.79,
+  "dd_ath": -17.93
+ },
+ {
+  "date": "2011-11-01",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1218.28,
+  "dd_cycle": -10.66,
+  "dd_ath": -22.16
+ },
+ {
+  "date": "2011-11-03",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1261.15,
+  "dd_cycle": -7.51,
+  "dd_ath": -19.42
+ },
+ {
+  "date": "2011-11-17",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1216.13,
+  "dd_cycle": -10.82,
+  "dd_ath": -22.3
+ },
+ {
+  "date": "2011-12-05",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1257.08,
+  "dd_cycle": -7.81,
+  "dd_ath": -19.68
+ },
+ {
+  "date": "2011-12-13",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1225.73,
+  "dd_cycle": -10.11,
+  "dd_ath": -21.69
+ },
+ {
+  "date": "2011-12-23",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1265.33,
+  "dd_cycle": -7.21,
+  "dd_ath": -19.16
+ },
+ {
+  "date": "2012-02-02",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1325.54,
+  "dd_cycle": -2.79,
+  "dd_ath": -15.31
+ },
+ {
+  "date": "2012-05-18",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1295.22,
+  "dd_cycle": -8.73,
+  "dd_ath": -17.25
+ },
+ {
+  "date": "2012-05-23",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1318.86,
+  "dd_cycle": -7.06,
+  "dd_ath": -15.74
+ },
+ {
+  "date": "2012-06-01",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1278.04,
+  "dd_cycle": -9.94,
+  "dd_ath": -18.34
+ },
+ {
+  "date": "2012-06-08",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1325.66,
+  "dd_cycle": -6.58,
+  "dd_ath": -15.3
+ },
+ {
+  "date": "2012-11-12",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1380.03,
+  "dd_cycle": -5.85,
+  "dd_ath": -11.83
+ },
+ {
+  "date": "2012-11-21",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1391.03,
+  "dd_cycle": -5.1,
+  "dd_ath": -11.12
+ },
+ {
+  "date": "2014-10-15",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1862.49,
+  "dd_cycle": -7.4,
+  "dd_ath": -7.4
+ },
+ {
+  "date": "2014-10-23",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 1950.82,
+  "dd_cycle": -3.01,
+  "dd_ath": -3.01
+ },
+ {
+  "date": "2015-08-21",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 1970.89,
+  "dd_cycle": -7.51,
+  "dd_ath": -7.51
+ },
+ {
+  "date": "2015-08-24",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1893.21,
+  "dd_cycle": -11.15,
+  "dd_ath": -11.15
+ },
+ {
+  "date": "2015-08-27",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1987.66,
+  "dd_cycle": -6.72,
+  "dd_ath": -6.72
+ },
+ {
+  "date": "2015-09-01",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1913.85,
+  "dd_cycle": -10.18,
+  "dd_ath": -10.18
+ },
+ {
+  "date": "2015-09-08",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1969.41,
+  "dd_cycle": -7.58,
+  "dd_ath": -7.58
+ },
+ {
+  "date": "2015-09-28",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1881.77,
+  "dd_cycle": -11.69,
+  "dd_ath": -11.69
+ },
+ {
+  "date": "2015-10-05",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1987.05,
+  "dd_cycle": -6.75,
+  "dd_ath": -6.75
+ },
+ {
+  "date": "2015-12-28",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 2056.5,
+  "dd_cycle": -3.49,
+  "dd_ath": -3.49
+ },
+ {
+  "date": "2016-01-05",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 2016.71,
+  "dd_cycle": -5.36,
+  "dd_ath": -5.36
+ },
+ {
+  "date": "2016-01-13",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 1890.28,
+  "dd_cycle": -11.29,
+  "dd_ath": -11.29
+ },
+ {
+  "date": "2016-03-01",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 1978.35,
+  "dd_cycle": -7.16,
+  "dd_ath": -7.16
+ },
+ {
+  "date": "2016-04-27",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 2095.15,
+  "dd_cycle": -1.67,
+  "dd_ath": -1.67
+ },
+ {
+  "date": "2016-06-24",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 2037.41,
+  "dd_cycle": -4.38,
+  "dd_ath": -4.38
+ },
+ {
+  "date": "2016-06-29",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 2070.77,
+  "dd_cycle": -2.82,
+  "dd_ath": -2.82
+ },
+ {
+  "date": "2018-02-05",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 2648.94,
+  "dd_cycle": -7.79,
+  "dd_ath": -7.79
+ },
+ {
+  "date": "2018-02-08",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 2581.0,
+  "dd_cycle": -10.16,
+  "dd_ath": -10.16
+ },
+ {
+  "date": "2018-02-12",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 2656.0,
+  "dd_cycle": -7.55,
+  "dd_ath": -7.55
+ },
+ {
+  "date": "2018-02-15",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 2731.2,
+  "dd_cycle": -4.93,
+  "dd_ath": -4.93
+ },
+ {
+  "date": "2018-04-02",
+  "from": "정상",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 2581.88,
+  "dd_cycle": -10.13,
+  "dd_ath": -10.13
+ },
+ {
+  "date": "2018-04-04",
+  "from": "조정장",
+  "to": "정상",
+  "direction": "완화",
+  "close": 2644.69,
+  "dd_cycle": -7.94,
+  "dd_ath": -7.94
+ },
+ {
+  "date": "2018-10-23",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 2740.69,
+  "dd_cycle": -6.49,
+  "dd_ath": -6.49
+ },
+ {
+  "date": "2018-11-09",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 2781.01,
+  "dd_cycle": -5.11,
+  "dd_ath": -5.11
+ },
+ {
+  "date": "2018-11-14",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 2701.58,
+  "dd_cycle": -7.82,
+  "dd_ath": -7.82
+ },
+ {
+  "date": "2018-11-23",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 2632.56,
+  "dd_cycle": -10.17,
+  "dd_ath": -10.17
+ },
+ {
+  "date": "2018-11-28",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 2743.79,
+  "dd_cycle": -6.38,
+  "dd_ath": -6.38
+ },
+ {
+  "date": "2018-12-06",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 2695.95,
+  "dd_cycle": -8.01,
+  "dd_ath": -8.01
+ },
+ {
+  "date": "2018-12-07",
+  "from": "정상",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 2633.08,
+  "dd_cycle": -10.16,
+  "dd_ath": -10.16
+ },
+ {
+  "date": "2019-01-31",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 2704.1,
+  "dd_cycle": -7.73,
+  "dd_ath": -7.73
+ },
+ {
+  "date": "2019-04-03",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 2873.4,
+  "dd_cycle": -1.96,
+  "dd_ath": -1.96
+ },
+ {
+  "date": "2020-02-24",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 3225.89,
+  "dd_cycle": -4.73,
+  "dd_ath": -4.73
+ },
+ {
+  "date": "2020-02-27",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 2978.76,
+  "dd_cycle": -12.03,
+  "dd_ath": -12.03
+ },
+ {
+  "date": "2020-03-04",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 3130.12,
+  "dd_cycle": -7.56,
+  "dd_ath": -7.56
+ },
+ {
+  "date": "2020-03-05",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 3023.94,
+  "dd_cycle": -10.7,
+  "dd_ath": -10.7
+ },
+ {
+  "date": "2020-03-12",
+  "from": "조정장",
+  "to": "약세장",
+  "direction": "악화",
+  "close": 2480.64,
+  "dd_cycle": -26.74,
+  "dd_ath": -26.74
+ },
+ {
+  "date": "2020-04-08",
+  "from": "약세장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 2749.98,
+  "dd_cycle": 0.0,
+  "dd_ath": -18.79
+ },
+ {
+  "date": "2020-07-22",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 3276.02,
+  "dd_cycle": 0.0,
+  "dd_ath": -3.25
+ },
+ {
+  "date": "2020-07-23",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 3235.66,
+  "dd_cycle": -1.23,
+  "dd_ath": -4.44
+ },
+ {
+  "date": "2020-07-31",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 3271.12,
+  "dd_cycle": -0.15,
+  "dd_ath": -3.4
+ },
+ {
+  "date": "2020-08-31",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 3500.31,
+  "dd_cycle": -0.22,
+  "dd_ath": -0.22
+ },
+ {
+  "date": "2020-11-17",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 3609.53,
+  "dd_cycle": -0.48,
+  "dd_ath": -0.48
+ },
+ {
+  "date": "2020-12-21",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 3694.92,
+  "dd_cycle": -0.74,
+  "dd_ath": -0.74
+ },
+ {
+  "date": "2020-12-24",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 3703.06,
+  "dd_cycle": -0.52,
+  "dd_ath": -0.52
+ },
+ {
+  "date": "2021-01-04",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 3700.65,
+  "dd_cycle": -1.48,
+  "dd_ath": -1.48
+ },
+ {
+  "date": "2021-01-11",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 3799.61,
+  "dd_cycle": -0.66,
+  "dd_ath": -0.66
+ },
+ {
+  "date": "2021-01-27",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 3750.77,
+  "dd_cycle": -2.71,
+  "dd_ath": -2.71
+ },
+ {
+  "date": "2021-02-05",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 3886.83,
+  "dd_cycle": 0.0,
+  "dd_ath": 0.0
+ },
+ {
+  "date": "2021-02-25",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 3829.34,
+  "dd_cycle": -2.68,
+  "dd_ath": -2.68
+ },
+ {
+  "date": "2021-03-11",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 3939.34,
+  "dd_cycle": 0.0,
+  "dd_ath": 0.0
+ },
+ {
+  "date": "2021-05-12",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 4063.04,
+  "dd_cycle": -4.01,
+  "dd_ath": -4.01
+ },
+ {
+  "date": "2021-05-17",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 4163.29,
+  "dd_cycle": -1.64,
+  "dd_ath": -1.64
+ },
+ {
+  "date": "2021-09-20",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 4357.73,
+  "dd_cycle": -3.95,
+  "dd_ath": -3.95
+ },
+ {
+  "date": "2021-09-23",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 4448.98,
+  "dd_cycle": -1.94,
+  "dd_ath": -1.94
+ },
+ {
+  "date": "2021-11-26",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 4594.62,
+  "dd_cycle": -2.34,
+  "dd_ath": -2.34
+ },
+ {
+  "date": "2021-12-09",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 4667.45,
+  "dd_cycle": -0.79,
+  "dd_ath": -0.79
+ },
+ {
+  "date": "2022-01-20",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 4482.73,
+  "dd_cycle": -6.54,
+  "dd_ath": -6.54
+ },
+ {
+  "date": "2022-02-02",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 4589.38,
+  "dd_cycle": -4.32,
+  "dd_ath": -4.32
+ },
+ {
+  "date": "2022-02-11",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 4418.64,
+  "dd_cycle": -7.88,
+  "dd_ath": -7.88
+ },
+ {
+  "date": "2022-02-22",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 4304.76,
+  "dd_cycle": -10.25,
+  "dd_ath": -10.25
+ },
+ {
+  "date": "2022-03-18",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 4463.12,
+  "dd_cycle": -6.95,
+  "dd_ath": -6.95
+ },
+ {
+  "date": "2022-04-22",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 4271.78,
+  "dd_cycle": -10.94,
+  "dd_ath": -10.94
+ },
+ {
+  "date": "2022-06-13",
+  "from": "조정장",
+  "to": "약세장",
+  "direction": "악화",
+  "close": 3749.63,
+  "dd_cycle": -21.83,
+  "dd_ath": -21.83
+ },
+ {
+  "date": "2023-06-08",
+  "from": "약세장",
+  "to": "정상",
+  "direction": "완화",
+  "close": 4293.93,
+  "dd_cycle": 0.0,
+  "dd_ath": -10.48
+ },
+ {
+  "date": "2023-10-27",
+  "from": "정상",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 4117.37,
+  "dd_cycle": -10.28,
+  "dd_ath": -14.16
+ },
+ {
+  "date": "2023-11-01",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 4237.86,
+  "dd_cycle": -7.65,
+  "dd_ath": -11.65
+ },
+ {
+  "date": "2023-11-06",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 4365.98,
+  "dd_cycle": -4.86,
+  "dd_ath": -8.98
+ },
+ {
+  "date": "2024-08-05",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 5186.33,
+  "dd_cycle": -8.49,
+  "dd_ath": -8.49
+ },
+ {
+  "date": "2024-08-12",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 5344.39,
+  "dd_cycle": -5.7,
+  "dd_ath": -5.7
+ },
+ {
+  "date": "2024-12-18",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 5872.16,
+  "dd_cycle": -3.58,
+  "dd_ath": -3.58
+ },
+ {
+  "date": "2024-12-23",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 5974.07,
+  "dd_cycle": -1.91,
+  "dd_ath": -1.91
+ },
+ {
+  "date": "2025-03-10",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 5614.56,
+  "dd_cycle": -8.62,
+  "dd_ath": -8.62
+ },
+ {
+  "date": "2025-03-13",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 5521.52,
+  "dd_cycle": -10.13,
+  "dd_ath": -10.13
+ },
+ {
+  "date": "2025-03-17",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 5675.12,
+  "dd_cycle": -7.63,
+  "dd_ath": -7.63
+ },
+ {
+  "date": "2025-03-26",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 5712.2,
+  "dd_cycle": -7.03,
+  "dd_ath": -7.03
+ },
+ {
+  "date": "2025-03-28",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 5580.94,
+  "dd_cycle": -9.17,
+  "dd_ath": -9.17
+ },
+ {
+  "date": "2025-04-03",
+  "from": "경계",
+  "to": "조정장",
+  "direction": "악화",
+  "close": 5396.52,
+  "dd_cycle": -12.17,
+  "dd_ath": -12.17
+ },
+ {
+  "date": "2025-05-02",
+  "from": "조정장",
+  "to": "경계",
+  "direction": "완화",
+  "close": 5686.67,
+  "dd_cycle": -7.45,
+  "dd_ath": -7.45
+ },
+ {
+  "date": "2025-07-03",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 6279.35,
+  "dd_cycle": 0.0,
+  "dd_ath": 0.0
+ },
+ {
+  "date": "2025-10-16",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 6629.07,
+  "dd_cycle": -1.85,
+  "dd_ath": -1.85
+ },
+ {
+  "date": "2025-10-21",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 6735.35,
+  "dd_cycle": -0.27,
+  "dd_ath": -0.27
+ },
+ {
+  "date": "2025-11-20",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 6538.76,
+  "dd_cycle": -5.11,
+  "dd_ath": -5.11
+ },
+ {
+  "date": "2025-11-25",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 6765.88,
+  "dd_cycle": -1.81,
+  "dd_ath": -1.81
+ },
+ {
+  "date": "2026-03-06",
+  "from": "정상",
+  "to": "경계",
+  "direction": "악화",
+  "close": 6740.02,
+  "dd_cycle": -3.42,
+  "dd_ath": -3.42
+ },
+ {
+  "date": "2026-04-10",
+  "from": "경계",
+  "to": "정상",
+  "direction": "완화",
+  "close": 6816.89,
+  "dd_cycle": -2.32,
+  "dd_ath": -2.32
+ }
+]
