@@ -1,0 +1,41 @@
+# 판정 기준. scripts/compute.py가 읽는다. 값을 바꾸면 다음 계산부터 전체 이력에 다시 적용된다.
+#
+# "관례"라고 적힌 값은 언론이 쓰는 정의와 같다. "자체"라고 적힌 값은 이 도구가 정한 초안이다.
+
+index:
+  symbol: "^GSPC"          # S&P 500
+  name: "S&P 500"
+
+state:
+  correction_pct: -10      # 관례: 직전 고점 대비 -10% 이하 → 조정장
+  bear_pct: -20            # 관례: 직전 고점 대비 -20% 이하 → 약세장
+  bull_rebound_pct: 20     # 관례: 약세장 저점 대비 +20% 반등 → 약세장 해제(새 강세장)
+  # 자체: 조정장 해제 여유폭. -10%를 넘나들며 매일 판정이 바뀌는 것을 막는다.
+  # 2이면 낙폭이 -8%보다 얕아져야 조정장에서 빠진다. 0이면 여유 없음.
+  correction_exit_buffer_pct: 2
+
+alert:                     # 자체: "경계" (낙폭은 -10%보다 얕지만 조심할 때)
+  below_sma200_days: 3     # 종가가 200일선 아래 N거래일 연속
+  vix_level: 25            # VIX 종가가 이 값 이상 (기획서 초안은 30)
+  sma50_below_sma200: true # 50일선이 200일선 아래인 상태(데드크로스 이후)
+  exit_calm_days: 3        # 위 조건이 모두 풀린 날이 N거래일 연속이면 경계 해제
+
+vix:                       # 표시용 구간
+  calm_max: 20
+  fear_min: 30
+
+credit:                    # 하이일드 스프레드 경고 (자체)
+  level_pct: 5.0           # 수준이 이 값(%) 이상
+  change_20d_pp: 1.0       # 20거래일 동안 이 값(%p) 이상 상승
+
+ammo:                      # 실탄(SGOV) 투입 단계. 사상 최고 종가 대비 낙폭 기준
+  basis: ath              # ath: 사상 최고 종가 대비
+  tiers:
+    - { drawdown_pct: -20, share: "1/3" }
+    - { drawdown_pct: -30, share: "1/3" }
+    - { drawdown_pct: -40, share: "나머지" }
+
+history:
+  episodes_since: "2000-01-01"   # 과거 하락 사례 표에 넣을 시작일
+  recent_days: 260               # 차트용으로 저장할 최근 거래일 수
+  events_since: "1990-01-01"     # 상태 변화 기록 시작일

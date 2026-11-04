@@ -1,0 +1,46 @@
+name: compute
+
+# 미국 장 마감 뒤 하루 한 번 지표를 계산해 data/에 커밋한다.
+# 브리핑(Claude 예약 작업)의 주기와는 상관없다. 브리핑은 언제 열든 data/의 최신 값을 읽는다.
+on:
+  schedule:
+    - cron: "41 21 * * 1-5"   # 한국 화~토 06:41 (미국 월~금 장 마감 뒤)
+    - cron: "13 23 * * 1-5"   # 한국 화~토 08:13 재시도 (첫 실행 실패·지연 대비, 변화 없으면 커밋 안 함)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: compute
+  cancel-in-progress: false
+
+jobs:
+  compute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Compute
+        id: compute
+        run: python scripts/compute.py
+        continue-on-error: true
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "변화 없음"
+          else
+            AS_OF=$(python -c "import json;print(json.load(open('data/status.json')).get('as_of','실패'))")
+            git commit -m "data: ${AS_OF}"
+            git push
+          fi
+      - name: Fail if compute failed
+        if: steps.compute.outcome == 'failure'
+        run: exit 1
