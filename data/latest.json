@@ -1,39 +1,39 @@
 {
- "generated_at_kst": "2026-11-06T12:26+09:00",
- "as_of": "2026-11-05",
+ "generated_at_kst": "2026-11-07T10:10+09:00",
+ "as_of": "2026-11-06",
  "state": {
   "current": "경계",
   "since": "2026-11-05",
-  "sessions_in_state": 1,
+  "sessions_in_state": 2,
   "previous": "정상",
   "reasons": [
-   "VIX 28.2 (기준 25 이상)"
+   "VIX 25.6 (기준 25 이상)"
   ]
  },
  "index": {
   "name": "S&P 500",
-  "date": "2026-11-05",
-  "close": 7353.73,
-  "chg_1d_pct": -4.36,
+  "date": "2026-11-06",
+  "close": 7376.86,
+  "chg_1d_pct": 0.31,
   "ath": 7818.93,
   "ath_date": "2026-10-06",
-  "dd_ath": -5.95,
+  "dd_ath": -5.65,
   "new_ath_today": false,
   "cycle_peak": 7818.93,
   "cycle_peak_date": "2026-10-06",
-  "dd_cycle": -5.95,
-  "to_correction_pp": 4.05,
-  "to_bear_pp": 14.05,
-  "down_streak": 1
+  "dd_cycle": -5.65,
+  "to_correction_pp": 4.35,
+  "to_bear_pp": 14.35,
+  "down_streak": 0
  },
  "trend": {
-  "sma50": 7686.53,
-  "sma200": 7322.74,
+  "sma50": 7679.45,
+  "sma200": 7325.05,
   "above_sma50": false,
-  "sma50_streak": 5,
+  "sma50_streak": 6,
   "above_sma200": true,
-  "sma200_streak": 148,
-  "gap_sma200_pct": 0.42,
+  "sma200_streak": 149,
+  "gap_sma200_pct": 0.71,
   "sma50_above_sma200": true,
   "last_cross": {
    "type": "골든크로스",
@@ -41,73 +41,73 @@
   }
  },
  "momentum": {
-  "rsi14": 33.5,
-  "macd": -45.67,
-  "macd_signal": -17.98,
-  "macd_hist": -27.69,
-  "adx14": 17.4
+  "rsi14": 35.1,
+  "macd": -61.07,
+  "macd_signal": -26.6,
+  "macd_hist": -34.47,
+  "adx14": 18.7
  },
  "volatility": {
-  "vix": 28.18,
+  "vix": 25.64,
   "band": "보통",
-  "chg_1d": 11.57,
-  "date": "2026-11-05"
+  "chg_1d": -2.54,
+  "date": "2026-11-06"
  },
  "macro": {
   "us10y": {
-   "value": 4.9,
-   "date": "2026-11-04",
-   "chg_20d": -0.37,
-   "chg_1d": -0.05
+   "value": 4.84,
+   "date": "2026-11-05",
+   "chg_20d": -0.44,
+   "chg_1d": -0.06
   },
   "us2y": {
-   "value": 4.58,
-   "date": "2026-11-04",
-   "chg_20d": -0.21,
-   "chg_1d": -0.03
+   "value": 4.46,
+   "date": "2026-11-05",
+   "chg_20d": -0.31,
+   "chg_1d": -0.12
   },
   "spread_10y2y": {
-   "value": 0.38,
-   "date": "2026-11-05",
-   "chg_20d": -0.13,
-   "chg_1d": 0.06,
+   "value": 0.35,
+   "date": "2026-11-06",
+   "chg_20d": -0.12,
+   "chg_1d": -0.03,
    "inverted": false
   },
   "hy_spread": {
-   "value": 3.32,
-   "date": "2026-11-04",
-   "chg_20d": 0.23,
-   "chg_1d": -0.08,
+   "value": 3.48,
+   "date": "2026-11-05",
+   "chg_20d": 0.33,
+   "chg_1d": 0.16,
    "warning": false
   },
   "dxy": {
-   "value": 101.69,
-   "date": "2026-11-05",
-   "chg_20d": -0.441,
-   "chg_1d": 0.177
+   "value": 102.279,
+   "date": "2026-11-06",
+   "chg_20d": 0.068,
+   "chg_1d": 0.718
   }
  },
  "ammo": {
   "basis": "ath",
-  "drawdown": -5.95,
+  "drawdown": -5.65,
   "tiers": [
    {
     "drawdown_pct": -20,
     "share": "1/3",
     "reached": false,
-    "distance_pp": 14.05
+    "distance_pp": 14.35
    },
    {
     "drawdown_pct": -30,
     "share": "1/3",
     "reached": false,
-    "distance_pp": 24.05
+    "distance_pp": 24.35
    },
    {
     "drawdown_pct": -40,
     "share": "나머지",
     "reached": false,
-    "distance_pp": 34.05
+    "distance_pp": 34.35
    }
   ],
   "reached_count": 0,
@@ -115,19 +115,10 @@
    "drawdown_pct": -20,
    "share": "1/3",
    "reached": false,
-   "distance_pp": 14.05
+   "distance_pp": 14.35
   }
  },
  "sessions": [
-  {
-   "date": "2026-10-23",
-   "close": 7623.68,
-   "chg_pct": -0.52,
-   "state": "정상",
-   "dd_cycle": -2.5,
-   "dd_ath": -2.5,
-   "vix": 19.45
-  },
   {
    "date": "2026-10-26",
    "close": 7676.77,
@@ -208,6 +199,15 @@
    "dd_cycle": -5.95,
    "dd_ath": -5.95,
    "vix": 28.18
+  },
+  {
+   "date": "2026-11-06",
+   "close": 7376.86,
+   "chg_pct": 0.31,
+   "state": "경계",
+   "dd_cycle": -5.65,
+   "dd_ath": -5.65,
+   "vix": 25.64
   }
  ],
  "recent_changes": [
@@ -270,37 +270,37 @@
   "index": {
    "ok": true,
    "source": "Yahoo Finance",
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-06"
   },
   "vix": {
    "ok": true,
    "source": "Yahoo Finance",
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-06"
   },
   "dxy": {
    "ok": true,
    "source": "Yahoo Finance",
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-06"
   },
   "us10y": {
    "ok": true,
    "source": "FRED",
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   },
   "us2y": {
    "ok": true,
    "source": "FRED",
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   },
   "spread_10y2y": {
    "ok": true,
    "source": "FRED",
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-06"
   },
   "hy_spread": {
    "ok": true,
    "source": "FRED",
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   }
  },
  "rules": {

@@ -1,0 +1,325 @@
+{
+ "generated_at_kst": "2026-11-07T10:10+09:00",
+ "as_of": "2026-11-06",
+ "state": {
+  "current": "경계",
+  "since": "2026-11-05",
+  "sessions_in_state": 2,
+  "previous": "정상",
+  "reasons": [
+   "VIX 25.6 (기준 25 이상)"
+  ]
+ },
+ "index": {
+  "name": "S&P 500",
+  "date": "2026-11-06",
+  "close": 7376.86,
+  "chg_1d_pct": 0.31,
+  "ath": 7818.93,
+  "ath_date": "2026-10-06",
+  "dd_ath": -5.65,
+  "new_ath_today": false,
+  "cycle_peak": 7818.93,
+  "cycle_peak_date": "2026-10-06",
+  "dd_cycle": -5.65,
+  "to_correction_pp": 4.35,
+  "to_bear_pp": 14.35,
+  "down_streak": 0
+ },
+ "trend": {
+  "sma50": 7679.45,
+  "sma200": 7325.05,
+  "above_sma50": false,
+  "sma50_streak": 6,
+  "above_sma200": true,
+  "sma200_streak": 149,
+  "gap_sma200_pct": 0.71,
+  "sma50_above_sma200": true,
+  "last_cross": {
+   "type": "골든크로스",
+   "date": "2025-07-01"
+  }
+ },
+ "momentum": {
+  "rsi14": 35.1,
+  "macd": -61.07,
+  "macd_signal": -26.6,
+  "macd_hist": -34.47,
+  "adx14": 18.7
+ },
+ "volatility": {
+  "vix": 25.64,
+  "band": "보통",
+  "chg_1d": -2.54,
+  "date": "2026-11-06"
+ },
+ "macro": {
+  "us10y": {
+   "value": 4.84,
+   "date": "2026-11-05",
+   "chg_20d": -0.44,
+   "chg_1d": -0.06
+  },
+  "us2y": {
+   "value": 4.46,
+   "date": "2026-11-05",
+   "chg_20d": -0.31,
+   "chg_1d": -0.12
+  },
+  "spread_10y2y": {
+   "value": 0.35,
+   "date": "2026-11-06",
+   "chg_20d": -0.12,
+   "chg_1d": -0.03,
+   "inverted": false
+  },
+  "hy_spread": {
+   "value": 3.48,
+   "date": "2026-11-05",
+   "chg_20d": 0.33,
+   "chg_1d": 0.16,
+   "warning": false
+  },
+  "dxy": {
+   "value": 102.279,
+   "date": "2026-11-06",
+   "chg_20d": 0.068,
+   "chg_1d": 0.718
+  }
+ },
+ "ammo": {
+  "basis": "ath",
+  "drawdown": -5.65,
+  "tiers": [
+   {
+    "drawdown_pct": -20,
+    "share": "1/3",
+    "reached": false,
+    "distance_pp": 14.35
+   },
+   {
+    "drawdown_pct": -30,
+    "share": "1/3",
+    "reached": false,
+    "distance_pp": 24.35
+   },
+   {
+    "drawdown_pct": -40,
+    "share": "나머지",
+    "reached": false,
+    "distance_pp": 34.35
+   }
+  ],
+  "reached_count": 0,
+  "next": {
+   "drawdown_pct": -20,
+   "share": "1/3",
+   "reached": false,
+   "distance_pp": 14.35
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-10-26",
+   "close": 7676.77,
+   "chg_pct": 0.7,
+   "state": "정상",
+   "dd_cycle": -1.82,
+   "dd_ath": -1.82,
+   "vix": 18.39
+  },
+  {
+   "date": "2026-10-27",
+   "close": 7722.6,
+   "chg_pct": 0.6,
+   "state": "정상",
+   "dd_cycle": -1.23,
+   "dd_ath": -1.23,
+   "vix": 17.52
+  },
+  {
+   "date": "2026-10-28",
+   "close": 7743.98,
+   "chg_pct": 0.28,
+   "state": "정상",
+   "dd_cycle": -0.96,
+   "dd_ath": -0.96,
+   "vix": 16.91
+  },
+  {
+   "date": "2026-10-29",
+   "close": 7720.39,
+   "chg_pct": -0.3,
+   "state": "정상",
+   "dd_cycle": -1.26,
+   "dd_ath": -1.26,
+   "vix": 17.2
+  },
+  {
+   "date": "2026-10-30",
+   "close": 7580.07,
+   "chg_pct": -1.82,
+   "state": "정상",
+   "dd_cycle": -3.05,
+   "dd_ath": -3.05,
+   "vix": 19.42
+  },
+  {
+   "date": "2026-11-02",
+   "close": 7541.4,
+   "chg_pct": -0.51,
+   "state": "정상",
+   "dd_cycle": -3.55,
+   "dd_ath": -3.55,
+   "vix": 21.15
+  },
+  {
+   "date": "2026-11-03",
+   "close": 7568.92,
+   "chg_pct": 0.36,
+   "state": "정상",
+   "dd_cycle": -3.2,
+   "dd_ath": -3.2,
+   "vix": 20.83
+  },
+  {
+   "date": "2026-11-04",
+   "close": 7688.62,
+   "chg_pct": 1.58,
+   "state": "정상",
+   "dd_cycle": -1.67,
+   "dd_ath": -1.67,
+   "vix": 16.61
+  },
+  {
+   "date": "2026-11-05",
+   "close": 7353.73,
+   "chg_pct": -4.36,
+   "state": "경계",
+   "dd_cycle": -5.95,
+   "dd_ath": -5.95,
+   "vix": 28.18
+  },
+  {
+   "date": "2026-11-06",
+   "close": 7376.86,
+   "chg_pct": 0.31,
+   "state": "경계",
+   "dd_cycle": -5.65,
+   "dd_ath": -5.65,
+   "vix": 25.64
+  }
+ ],
+ "recent_changes": [
+  {
+   "date": "2026-10-16",
+   "what": "50일선",
+   "from": "위",
+   "to": "아래"
+  },
+  {
+   "date": "2026-10-20",
+   "what": "50일선",
+   "from": "아래",
+   "to": "위"
+  },
+  {
+   "date": "2026-10-22",
+   "what": "50일선",
+   "from": "위",
+   "to": "아래"
+  },
+  {
+   "date": "2026-10-27",
+   "what": "50일선",
+   "from": "아래",
+   "to": "위"
+  },
+  {
+   "date": "2026-10-30",
+   "what": "50일선",
+   "from": "위",
+   "to": "아래"
+  },
+  {
+   "date": "2026-11-02",
+   "what": "VIX 구간",
+   "from": "평온",
+   "to": "보통"
+  },
+  {
+   "date": "2026-11-04",
+   "what": "VIX 구간",
+   "from": "보통",
+   "to": "평온"
+  },
+  {
+   "date": "2026-11-05",
+   "what": "상태",
+   "from": "정상",
+   "to": "경계"
+  },
+  {
+   "date": "2026-11-05",
+   "what": "VIX 구간",
+   "from": "평온",
+   "to": "보통"
+  }
+ ],
+ "sources": {
+  "index": {
+   "ok": true,
+   "source": "Yahoo Finance",
+   "last_date": "2026-11-06"
+  },
+  "vix": {
+   "ok": true,
+   "source": "Yahoo Finance",
+   "last_date": "2026-11-06"
+  },
+  "dxy": {
+   "ok": true,
+   "source": "Yahoo Finance",
+   "last_date": "2026-11-06"
+  },
+  "us10y": {
+   "ok": true,
+   "source": "FRED",
+   "last_date": "2026-11-05"
+  },
+  "us2y": {
+   "ok": true,
+   "source": "FRED",
+   "last_date": "2026-11-05"
+  },
+  "spread_10y2y": {
+   "ok": true,
+   "source": "FRED",
+   "last_date": "2026-11-06"
+  },
+  "hy_spread": {
+   "ok": true,
+   "source": "FRED",
+   "last_date": "2026-11-05"
+  }
+ },
+ "rules": {
+  "correction_pct": -10,
+  "bear_pct": -20,
+  "bull_rebound_pct": 20,
+  "alert": {
+   "below_sma200_days": 3,
+   "vix_level": 25,
+   "sma50_below_sma200": true,
+   "exit_calm_days": 3
+  },
+  "vix": {
+   "calm_max": 20,
+   "fear_min": 30
+  },
+  "credit": {
+   "level_pct": 5.0,
+   "change_20d_pp": 1.0
+  }
+ }
+}
