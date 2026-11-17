@@ -1,5 +1,5 @@
 {
- "generated_at_kst": "2026-11-17T13:10+09:00",
+ "generated_at_kst": "2026-11-17T14:04+09:00",
  "as_of": "2026-11-16",
  "state": {
   "current": "정상",
@@ -79,10 +79,10 @@
    "warning": false
   },
   "dxy": {
-   "value": 103.499,
+   "value": 103.55,
    "date": "2026-11-16",
-   "chg_20d": 1.49,
-   "chg_1d": 0.086
+   "chg_20d": 1.54,
+   "chg_1d": 0.135
   }
  },
  "ammo": {
