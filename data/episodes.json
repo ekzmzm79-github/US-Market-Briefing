@@ -363,7 +363,7 @@
   "peak_date": "2026-10-06",
   "trough_date": "2026-11-20",
   "end_date": "2026-11-20",
-  "ongoing": true,
+  "ongoing": false,
   "depth_cycle": -11.62,
   "dd_ath_at_trough": -11.62,
   "reached_bear": false,
