@@ -1,5 +1,5 @@
 {
- "generated_at_kst": "2026-11-26T14:01+09:00",
+ "generated_at_kst": "2026-11-27T12:46+09:00",
  "as_of": "2026-11-25",
  "state": {
   "current": "경계",
@@ -82,10 +82,10 @@
    "warning": false
   },
   "dxy": {
-   "value": 103.795,
-   "date": "2026-11-25",
-   "chg_20d": 1.571,
-   "chg_1d": -0.014
+   "value": 103.687,
+   "date": "2026-11-26",
+   "chg_20d": 1.614,
+   "chg_1d": 0.016
   }
  },
  "ammo": {
@@ -306,12 +306,12 @@
   "vix": {
    "ok": true,
    "source": "Yahoo Finance",
-   "last_date": "2026-11-25"
+   "last_date": "2026-11-26"
   },
   "dxy": {
    "ok": true,
    "source": "Yahoo Finance",
-   "last_date": "2026-11-25"
+   "last_date": "2026-11-26"
   },
   "us10y": {
    "ok": true,
