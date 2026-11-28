@@ -1,0 +1,355 @@
+{
+ "generated_at_kst": "2026-11-28T12:29+09:00",
+ "as_of": "2026-11-27",
+ "state": {
+  "current": "경계",
+  "since": "2026-11-23",
+  "sessions_in_state": 4,
+  "previous": "조정장",
+  "reasons": [
+   "200일선 아래 8거래일째"
+  ]
+ },
+ "index": {
+  "name": "S&P 500",
+  "date": "2026-11-27",
+  "close": 7297.49,
+  "chg_1d_pct": 1.6,
+  "ath": 7818.93,
+  "ath_date": "2026-10-06",
+  "dd_ath": -6.67,
+  "new_ath_today": false,
+  "cycle_peak": 7818.93,
+  "cycle_peak_date": "2026-10-06",
+  "dd_cycle": -6.67,
+  "to_correction_pp": 3.33,
+  "to_bear_pp": 13.33,
+  "down_streak": 0
+ },
+ "trend": {
+  "sma50": 7595.72,
+  "sma200": 7354.27,
+  "above_sma50": false,
+  "sma50_streak": 20,
+  "above_sma200": false,
+  "sma200_streak": 8,
+  "gap_sma200_pct": -0.77,
+  "sma50_above_sma200": true,
+  "last_cross": {
+   "type": "골든크로스",
+   "date": "2025-07-01"
+  }
+ },
+ "momentum": {
+  "rsi14": 44.9,
+  "macd": -122.41,
+  "macd_signal": -106.44,
+  "macd_hist": -15.97,
+  "adx14": 27.4
+ },
+ "volatility": {
+  "vix": 23.81,
+  "band": "보통",
+  "chg_1d": -4.48,
+  "date": "2026-11-27"
+ },
+ "macro": {
+  "us10y": {
+   "value": 4.85,
+   "date": "2026-11-25",
+   "chg_20d": -0.14,
+   "chg_1d": -0.06
+  },
+  "us2y": {
+   "value": 4.61,
+   "date": "2026-11-25",
+   "chg_20d": -0.09,
+   "chg_1d": -0.02
+  },
+  "spread_10y2y": {
+   "value": 0.25,
+   "date": "2026-11-27",
+   "chg_20d": -0.13,
+   "chg_1d": 0.01,
+   "inverted": false
+  },
+  "hy_spread": {
+   "value": 3.77,
+   "date": "2026-11-26",
+   "chg_20d": 0.51,
+   "chg_1d": 0.0,
+   "warning": false
+  },
+  "dxy": {
+   "value": 104.014,
+   "date": "2026-11-27",
+   "chg_20d": 1.935,
+   "chg_1d": 0.332
+  }
+ },
+ "ammo": {
+  "basis": "ath",
+  "drawdown": -6.67,
+  "tiers": [
+   {
+    "drawdown_pct": -20,
+    "share": "1/3",
+    "reached": false,
+    "distance_pp": 13.33
+   },
+   {
+    "drawdown_pct": -30,
+    "share": "1/3",
+    "reached": false,
+    "distance_pp": 23.33
+   },
+   {
+    "drawdown_pct": -40,
+    "share": "나머지",
+    "reached": false,
+    "distance_pp": 33.33
+   }
+  ],
+  "reached_count": 0,
+  "next": {
+   "drawdown_pct": -20,
+   "share": "1/3",
+   "reached": false,
+   "distance_pp": 13.33
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-11-13",
+   "close": 7561.67,
+   "chg_pct": -0.4,
+   "state": "정상",
+   "dd_cycle": -3.29,
+   "dd_ath": -3.29,
+   "vix": 19.3
+  },
+  {
+   "date": "2026-11-16",
+   "close": 7416.59,
+   "chg_pct": -1.92,
+   "state": "정상",
+   "dd_cycle": -5.15,
+   "dd_ath": -5.15,
+   "vix": 22.91
+  },
+  {
+   "date": "2026-11-17",
+   "close": 7340.53,
+   "chg_pct": -1.03,
+   "state": "경계",
+   "dd_cycle": -6.12,
+   "dd_ath": -6.12,
+   "vix": 25.46
+  },
+  {
+   "date": "2026-11-18",
+   "close": 7323.63,
+   "chg_pct": -0.23,
+   "state": "경계",
+   "dd_cycle": -6.33,
+   "dd_ath": -6.33,
+   "vix": 24.56
+  },
+  {
+   "date": "2026-11-19",
+   "close": 7175.83,
+   "chg_pct": -2.02,
+   "state": "경계",
+   "dd_cycle": -8.22,
+   "dd_ath": -8.22,
+   "vix": 28.44
+  },
+  {
+   "date": "2026-11-20",
+   "close": 6910.39,
+   "chg_pct": -3.7,
+   "state": "조정장",
+   "dd_cycle": -11.62,
+   "dd_ath": -11.62,
+   "vix": 35.89
+  },
+  {
+   "date": "2026-11-23",
+   "close": 7237.17,
+   "chg_pct": 4.73,
+   "state": "경계",
+   "dd_cycle": -7.44,
+   "dd_ath": -7.44,
+   "vix": 26.62
+  },
+  {
+   "date": "2026-11-24",
+   "close": 7201.09,
+   "chg_pct": -0.5,
+   "state": "경계",
+   "dd_cycle": -7.9,
+   "dd_ath": -7.9,
+   "vix": 26.36
+  },
+  {
+   "date": "2026-11-25",
+   "close": 7182.78,
+   "chg_pct": -0.25,
+   "state": "경계",
+   "dd_cycle": -8.14,
+   "dd_ath": -8.14,
+   "vix": 28.29
+  },
+  {
+   "date": "2026-11-27",
+   "close": 7297.49,
+   "chg_pct": 1.6,
+   "state": "경계",
+   "dd_cycle": -6.67,
+   "dd_ath": -6.67,
+   "vix": 23.81
+  }
+ ],
+ "recent_changes": [
+  {
+   "date": "2026-10-30",
+   "what": "50일선",
+   "from": "위",
+   "to": "아래"
+  },
+  {
+   "date": "2026-11-02",
+   "what": "VIX 구간",
+   "from": "평온",
+   "to": "보통"
+  },
+  {
+   "date": "2026-11-04",
+   "what": "VIX 구간",
+   "from": "보통",
+   "to": "평온"
+  },
+  {
+   "date": "2026-11-05",
+   "what": "상태",
+   "from": "정상",
+   "to": "경계"
+  },
+  {
+   "date": "2026-11-05",
+   "what": "VIX 구간",
+   "from": "평온",
+   "to": "보통"
+  },
+  {
+   "date": "2026-11-09",
+   "what": "VIX 구간",
+   "from": "보통",
+   "to": "평온"
+  },
+  {
+   "date": "2026-11-11",
+   "what": "상태",
+   "from": "경계",
+   "to": "정상"
+  },
+  {
+   "date": "2026-11-16",
+   "what": "VIX 구간",
+   "from": "평온",
+   "to": "보통"
+  },
+  {
+   "date": "2026-11-17",
+   "what": "상태",
+   "from": "정상",
+   "to": "경계"
+  },
+  {
+   "date": "2026-11-17",
+   "what": "200일선",
+   "from": "위",
+   "to": "아래"
+  },
+  {
+   "date": "2026-11-20",
+   "what": "상태",
+   "from": "경계",
+   "to": "조정장"
+  },
+  {
+   "date": "2026-11-20",
+   "what": "VIX 구간",
+   "from": "보통",
+   "to": "공포"
+  },
+  {
+   "date": "2026-11-23",
+   "what": "상태",
+   "from": "조정장",
+   "to": "경계"
+  },
+  {
+   "date": "2026-11-23",
+   "what": "VIX 구간",
+   "from": "공포",
+   "to": "보통"
+  }
+ ],
+ "sources": {
+  "index": {
+   "ok": true,
+   "source": "Yahoo Finance",
+   "last_date": "2026-11-27"
+  },
+  "vix": {
+   "ok": true,
+   "source": "Yahoo Finance",
+   "last_date": "2026-11-27"
+  },
+  "dxy": {
+   "ok": true,
+   "source": "Yahoo Finance",
+   "last_date": "2026-11-27"
+  },
+  "us10y": {
+   "ok": true,
+   "source": "FRED",
+   "last_date": "2026-11-25"
+  },
+  "us2y": {
+   "ok": true,
+   "source": "FRED",
+   "last_date": "2026-11-25"
+  },
+  "spread_10y2y": {
+   "ok": true,
+   "source": "FRED",
+   "last_date": "2026-11-27"
+  },
+  "hy_spread": {
+   "ok": true,
+   "source": "FRED",
+   "last_date": "2026-11-26"
+  }
+ },
+ "rules": {
+  "correction_pct": -10,
+  "bear_pct": -20,
+  "bull_rebound_pct": 20,
+  "alert": {
+   "below_sma200_days": 3,
+   "vix_level": 25,
+   "sma50_below_sma200": true,
+   "exit_calm_days": 3
+  },
+  "vix": {
+   "calm_max": 20,
+   "fear_min": 30
+  },
+  "credit": {
+   "level_pct": 5.0,
+   "change_20d_pp": 1.0
+  }
+ }
+}
